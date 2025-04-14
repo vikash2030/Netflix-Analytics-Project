@@ -55,6 +55,4 @@ This project demonstrates a complete data analysis workflow, from data preparati
 *   **Power BI Dashboard:** (Power BI file will be a separate deliverable)
 """
 
-with open("README.md", "w") as f:
-    f.write(readme_content)
-print("README.md created.")
+
